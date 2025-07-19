@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Main Branch");
+    printf("Function Branch");
     return 0;
 }
